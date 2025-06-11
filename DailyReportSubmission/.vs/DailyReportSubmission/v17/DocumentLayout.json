@@ -14,17 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\The Tech Academy\\C-SHARP-PROJECTS\\DailyReportSubmission\\DailyReportSubmission\\Program.cs",
               "RelativeDocumentMoniker": "DailyReportSubmission\\Program.cs",
-              "ToolTip": "D:\\The Tech Academy\\C-SHARP-PROJECTS\\DailyReportSubmission\\DailyReportSubmission\\Program.cs*",
-              "RelativeToolTip": "DailyReportSubmission\\Program.cs*",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBYAAAB6AAAAAAAAAA==",
+              "ToolTip": "D:\\The Tech Academy\\C-SHARP-PROJECTS\\DailyReportSubmission\\DailyReportSubmission\\Program.cs",
+              "RelativeToolTip": "DailyReportSubmission\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-11T00:33:39.604Z",
               "EditorCaption": ""

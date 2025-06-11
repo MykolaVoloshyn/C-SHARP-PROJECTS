@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\net8.0\MathAndComparisonOperatorSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\net8.0\MathAndComparisonOperatorSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\net8.0\MathAndComparisonOperatorSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\net8.0\MathAndComparisonOperatorSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\bin\Debug\net8.0\MathAndComparisonOperatorSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\refint\MathAndComparisonOperatorSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\MathAndComparisonOperatorSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MathAndComparisonOperatorSubmission\MathAndComparisonOperatorSubmission\obj\Debug\net8.0\ref\MathAndComparisonOperatorSubmission.dll
