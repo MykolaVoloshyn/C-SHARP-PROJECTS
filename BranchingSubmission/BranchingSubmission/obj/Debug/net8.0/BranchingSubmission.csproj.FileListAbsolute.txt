@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\bin\Debug\net8.0\BranchingSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\bin\Debug\net8.0\BranchingSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\bin\Debug\net8.0\BranchingSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\bin\Debug\net8.0\BranchingSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\bin\Debug\net8.0\BranchingSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\refint\BranchingSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\BranchingSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\BranchingSubmission\BranchingSubmission\obj\Debug\net8.0\ref\BranchingSubmission.dll

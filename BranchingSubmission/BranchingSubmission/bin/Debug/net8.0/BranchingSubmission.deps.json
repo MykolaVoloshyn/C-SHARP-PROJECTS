@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BranchingSubmission/1.0.0": {
+        "runtime": {
+          "BranchingSubmission.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BranchingSubmission/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
