@@ -61,7 +61,7 @@
                 //prints the value contained under this index.
                 if (carsIndex > 0 && carsIndex <= 4)
                 {
-                    Console.WriteLine(namesArray[carsIndex]);
+                    Console.WriteLine(cars[carsIndex]);
                     break;
                 }
 
