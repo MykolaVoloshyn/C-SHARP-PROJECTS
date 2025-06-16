@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\net8.0\ConsoleAppArraySubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\net8.0\ConsoleAppArraySubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\net8.0\ConsoleAppArraySubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\net8.0\ConsoleAppArraySubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\bin\Debug\net8.0\ConsoleAppArraySubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\refint\ConsoleAppArraySubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ConsoleAppArraySubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppArraySubmission\ConsoleAppArraySubmission\obj\Debug\net8.0\ref\ConsoleAppArraySubmission.dll
