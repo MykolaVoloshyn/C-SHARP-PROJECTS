@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\net8.0\ConsoleAppSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\net8.0\ConsoleAppSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\net8.0\ConsoleAppSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\net8.0\ConsoleAppSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\bin\Debug\net8.0\ConsoleAppSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\refint\ConsoleAppSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ConsoleAppSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConsoleAppSubmission\ConsoleAppSubmission\obj\Debug\net8.0\ref\ConsoleAppSubmission.dll
