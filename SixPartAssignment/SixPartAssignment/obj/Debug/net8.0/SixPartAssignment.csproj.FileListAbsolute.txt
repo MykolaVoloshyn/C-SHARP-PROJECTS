@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\bin\Debug\net8.0\SixPartAssignment.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\refint\SixPartAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\SixPartAssignment.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\SixPartAssignment\SixPartAssignment\obj\Debug\net8.0\ref\SixPartAssignment.dll
