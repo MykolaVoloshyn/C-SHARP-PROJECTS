@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\bin\Debug\net8.0\ClassSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\refint\ClassSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ClassSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ClassSubmission\ClassSubmission\obj\Debug\net8.0\ref\ClassSubmission.dll
