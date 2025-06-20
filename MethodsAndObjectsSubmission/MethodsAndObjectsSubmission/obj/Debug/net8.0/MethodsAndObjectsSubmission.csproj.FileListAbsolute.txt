@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\net8.0\MethodsAndObjectsSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\net8.0\MethodsAndObjectsSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\net8.0\MethodsAndObjectsSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\net8.0\MethodsAndObjectsSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\bin\Debug\net8.0\MethodsAndObjectsSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\refint\MethodsAndObjectsSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\MethodsAndObjectsSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MethodsAndObjectsSubmission\MethodsAndObjectsSubmission\obj\Debug\net8.0\ref\MethodsAndObjectsSubmission.dll
