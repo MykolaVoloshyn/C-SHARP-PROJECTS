@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\bin\Debug\net8.0\MainMethodSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\bin\Debug\net8.0\MainMethodSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\bin\Debug\net8.0\MainMethodSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\bin\Debug\net8.0\MainMethodSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\bin\Debug\net8.0\MainMethodSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\refint\MainMethodSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\MainMethodSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\MainMethodSubmission\MainMethodSubmission\obj\Debug\net8.0\ref\MainMethodSubmission.dll
