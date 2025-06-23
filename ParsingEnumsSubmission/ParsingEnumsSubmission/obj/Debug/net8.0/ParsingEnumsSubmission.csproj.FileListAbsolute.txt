@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\net8.0\ParsingEnumsSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\net8.0\ParsingEnumsSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\net8.0\ParsingEnumsSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\net8.0\ParsingEnumsSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\bin\Debug\net8.0\ParsingEnumsSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\refint\ParsingEnumsSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ParsingEnumsSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ParsingEnumsSubmission\ParsingEnumsSubmission\obj\Debug\net8.0\ref\ParsingEnumsSubmission.dll
