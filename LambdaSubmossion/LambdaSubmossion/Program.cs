@@ -34,6 +34,11 @@
             // only those Employee objects that have value "Joe" as FirstName property
             List<Employee> firstNameJoeLambda = employees.Where(x => x.FirstName.Equals("Joe")).ToList();
             Console.WriteLine(firstNameJoeLambda.Count()); // Prints a number of elements in the firstNameJoeLambda list
+
+            // Creates a new list from the employees list with
+            // only those Employee objects where Id number greater than 5
+            List<Employee> idGreaterThan5Lambda = employees.Where(x => x.Id > 5).ToList();
+            Console.WriteLine(idGreaterThan5Lambda.Count()); // Prints a number of elements in the idGreaterThan5Lambda list
         }
     }
 }
