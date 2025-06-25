@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\bin\Debug\net8.0\LambdaSubmossion.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\bin\Debug\net8.0\LambdaSubmossion.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\bin\Debug\net8.0\LambdaSubmossion.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\bin\Debug\net8.0\LambdaSubmossion.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\bin\Debug\net8.0\LambdaSubmossion.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\refint\LambdaSubmossion.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\LambdaSubmossion.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\LambdaSubmossion\LambdaSubmossion\obj\Debug\net8.0\ref\LambdaSubmossion.dll
