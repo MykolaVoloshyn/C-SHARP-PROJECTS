@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\bin\Debug\net8.0\InputAssignment.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\bin\Debug\net8.0\InputAssignment.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\bin\Debug\net8.0\InputAssignment.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\bin\Debug\net8.0\InputAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\bin\Debug\net8.0\InputAssignment.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\refint\InputAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\InputAssignment.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\InputAssignment\InputAssignment\obj\Debug\net8.0\ref\InputAssignment.dll
