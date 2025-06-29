@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\bin\Debug\net8.0\ConstructorSubmission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\bin\Debug\net8.0\ConstructorSubmission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\bin\Debug\net8.0\ConstructorSubmission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\bin\Debug\net8.0\ConstructorSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\bin\Debug\net8.0\ConstructorSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\refint\ConstructorSubmission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ConstructorSubmission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\ConstructorSubmission\ConstructorSubmission\obj\Debug\net8.0\ref\ConstructorSubmission.dll
