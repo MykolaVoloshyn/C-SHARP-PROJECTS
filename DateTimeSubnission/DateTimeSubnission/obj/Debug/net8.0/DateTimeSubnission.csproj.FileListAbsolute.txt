@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\bin\Debug\net8.0\DateTimeSubnission.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\bin\Debug\net8.0\DateTimeSubnission.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\bin\Debug\net8.0\DateTimeSubnission.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\bin\Debug\net8.0\DateTimeSubnission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\bin\Debug\net8.0\DateTimeSubnission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\refint\DateTimeSubnission.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\DateTimeSubnission.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\DateTimeSubnission\DateTimeSubnission\obj\Debug\net8.0\ref\DateTimeSubnission.dll
