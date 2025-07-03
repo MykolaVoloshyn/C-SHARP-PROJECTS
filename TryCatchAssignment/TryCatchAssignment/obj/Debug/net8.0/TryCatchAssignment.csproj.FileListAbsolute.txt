@@ -1,0 +1,15 @@
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.exe
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.deps.json
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.runtimeconfig.json
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\bin\Debug\net8.0\TryCatchAssignment.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfoInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.AssemblyInfo.cs
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.sourcelink.json
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\refint\TryCatchAssignment.dll
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.pdb
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\TryCatchAssignment.genruntimeconfig.cache
+D:\The Tech Academy\C-SHARP-PROJECTS\TryCatchAssignment\TryCatchAssignment\obj\Debug\net8.0\ref\TryCatchAssignment.dll
