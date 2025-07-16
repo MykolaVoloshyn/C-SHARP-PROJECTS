@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "LiveServerTime.Controllers.TimeController",
+    "Method": "Get",
+    "RelativePath": "Api/SetTime",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,19 @@
+﻿@page
+@model LiveServerTime.Pages.ServerTimeModel
+@{
+    ViewData["Title"] = "Server Time";
+}
+
+<h1>@ViewBag.Title</h1>
+
+<h2 id="server-time" style="font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; font-style:italic; color:cadetblue" >@Model.ServerTime</h2>
+
+<script>
+    async function updateTime() {
+        const res = await fetch("Api/SetTime");
+        const time = await res.text();
+        document.getElementById("server-time").textContent = time;
+    }
+
+    setInterval(updateTime, 1000);
+</script>
