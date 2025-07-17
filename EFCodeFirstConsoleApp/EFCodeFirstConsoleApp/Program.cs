@@ -18,9 +18,6 @@
                 context.Students.Add(student);
                 context.SaveChanges();
             }
-
-            Console.WriteLine("Press any key to exit the program");
-            Console.ReadKey();
         }
     }
 }
